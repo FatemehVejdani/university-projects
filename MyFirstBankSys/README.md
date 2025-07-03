@@ -45,6 +45,23 @@ It features two user roles: **Admin** and **Customer**.
 
 ## 🚀 Getting Started
 
-1. Make sure `PyQt5` is installed:
-   ```bash
-   pip install -r requirements.txt
+1. Clone the repository:  
+   `git clone https://github.com/FatemehVejdani/university-projects.git`
+
+2. Navigate to the project folder:  
+   `cd university-projects/MyFirstBankSys`
+
+3. Install dependencies:  
+   `pip install -r requirements.txt`
+
+4. Run the application:  
+   `python main.py`
+
+---
+
+## 📷 Screenshots
+
+![Login Screen](screenshots/login.png)  
+![Admin Panel](screenshots/admin_panel.png)  
+![Customer Panel](screenshots/customer_panel.png)  
+![Change Password](screenshots/changepassword.png)
