@@ -4,7 +4,7 @@ A beginner-level desktop banking management system built with Python and PyQt5.
 This project was developed as a university assignment during my first month of learning Python — without any help from AI tools like ChatGPT — just through YouTube tutorials and independent research.
 
 
-**Completed:** Fall 1401, Term 1 — Computer Engineering
+**Completed:** Fall 2022, Term 1 — Computer Engineering
 
 ---
 
